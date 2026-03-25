@@ -2,9 +2,9 @@
 
 ### DevOps Engineer
 
-- 🔭 I'm currently working on **LOTTE Finance Vietnam**
+- 🔭 I'm currently working on **LOTTE Finance Vietnam as DevOps Manager**
 
-- 🌱 I'm currently learning **☁️ Kubernetes | OpenShift | AWS | CI/CD | Helm | ArgoCD | Jenkins | GitLab CI | Prometheus | Grafana | Elastic | Vault | Trivy | SonarQube**
+- 🌱 I'm currently learning **☁️ Kubernetes | OpenShift | AWS | CI/CD | Helm | ArgoCD | Jenkins | GitLab CI | Prometheus | Grafana | Elastic | Vault | Trivy | SonarQube | Victoria Metric | Victoria Logs**
 
 - 👨‍💻 All of my projects are available at **[https://www.facebook.com/hoanbc.it/](https://www.facebook.com/hoanbc.it/)**
 
